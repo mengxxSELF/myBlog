@@ -1,0 +1,5 @@
+[0mGET /article/list [36m304 [0m92.829 ms - -[0m
+[0mGET /article/list [36m304 [0m17.603 ms - -[0m
+[0mGET /user/logout [36m302 [0m8.034 ms - 46[0m
+[0mGET / [32m200 [0m2.495 ms - 1725[0m
+[0mGET /article/list [32m200 [0m26.794 ms - 6096[0m
